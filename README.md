@@ -2,8 +2,6 @@
 
 ![Kayboot](/img/kaybooth.png)
 
-**Refonte d'un site Web**
-
 ## 🚸 Webflow to WordPress
 
 L'objectif de ce projet a été de reproduire un site Webflow vers WordPress.
