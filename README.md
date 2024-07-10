@@ -4,7 +4,7 @@
 
 ## 🚸 Webflow to WordPress
 
-L'objectif de ce projet a été de reproduire un site Webflow vers WordPress.
+Objectif: refonte d'un site Webflow vers WordPress.
 
 ## 💻 Étapes du Projet
 
