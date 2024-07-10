@@ -20,3 +20,4 @@ L'objectif de ce projet a été de reproduire un site Webflow vers WordPress.
 ![Kaybooth](/img/kaybooth_logo_transparent-300x197.png)
 
 Découvrir le projet en ligne 🔗 [Kaybooth](https://kaybooth.assoumani.pro/)
+<p><em>Projet perso - Refonte - Jean Assoumani 2020</em></p>
