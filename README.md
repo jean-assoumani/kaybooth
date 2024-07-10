@@ -8,7 +8,7 @@ L'objectif de ce projet a été de reproduire un site Webflow vers WordPress.
 
 ## 💻 Étapes du Projet
 
-- Récupérer les données sur le site Webflow (textes, images, codes couleur, fonts... )
+- Récupérer les données sur le site Webflow (textes, images, couleurs, fonts... )
 - Créatinon d'une maquette pour le développement
 - Refonte du site en local 
 - Mise en ligne après validation
