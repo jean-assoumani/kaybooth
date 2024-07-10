@@ -1,0 +1,30 @@
+# Ignore des fichiers copiés ou anciens
+*Copie.*
+*old.*
+.old
+.scss
+.sass-cache
+.wpress
+
+# Ignorer TOUS les fichiers .log
+*.log
+
+# WordPress
+/wp-admin/
+/wp-includes/
+/wp-content/
+
+# Fichiers spécifiques WordPress
+/.htaccess
+/license.txt
+/readme.html
+/wp-*.php
+sitemap.xml
+sitemap.xml.gz
+
+# Dossiers spécifiques WordPress
+/index.php
+/xmlrpc.php
+
+# Configuration
+wp-config.php
